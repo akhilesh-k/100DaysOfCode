@@ -19,3 +19,17 @@ Tomorrow's plan:
 1. Connect with Firebase
 2. Regex and Debugging JS.
 3. CPP STL Recap.
+
+**Day 2 23/04/2020**
+
+Day 2/100 #100DaysOfCode
+
+1. Connected login UI with Firebase
+2. Completed ES6, Started Regex in JS
+3. STL-Vectors
+
+Tomorrow's plan:
+
+1. Completing Authentication
+2. Debugging JS.
+3. Sorting Algorithms
